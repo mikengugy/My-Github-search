@@ -1,0 +1,23 @@
+#home{
+    background-image: url("src/app/img/yellowstone-national-park-1581879.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: italic;
+    width: 100%;
+    height: 80vh;
+    margin: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 5em;
+}
+p{
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
